@@ -50,9 +50,9 @@ Then open your browser at `http://localhost:8501`
 
 Product Link: After running the application, access it at http://localhost:8501
 
-GitHub Repository: [Insert your GitHub repository link here]
+GitHub Repository: [https://github.com/isla0923/ACC102-Advertisement-Analysis]
 
-Demo Video: [Insert your 1 to 3 minute demo video link here] 
+Demo Video: [https://video.xjtlu.edu.cn/Mediasite/Play/db5219a8f22c4bd19129cd8d81e1970a1d] 
 7. Limitations and Next Steps
 
 Limitations:
